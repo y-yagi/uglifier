@@ -1,3 +1,9 @@
+## next
+
+- update UglifyJS to [3.12.8](https://github.com/mishoo/UglifyJS2/compare/v3.13...v3.12.8)
+- update UglifyJS to [3.13](https://github.com/mishoo/UglifyJS2/compare/v3.13...v3.13)
+- update UglifyJS to [3.13](https://github.com/mishoo/UglifyJS2/compare/v3.4.8...v3.13)
+
 ## 4.2.0 (25 September 2019)
 
 - show code context for error messages (#167)
